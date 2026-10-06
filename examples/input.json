@@ -1,0 +1,5 @@
+{
+  "period": "daily",
+  "fetchPricing": true,
+  "maxItems": 20
+}
